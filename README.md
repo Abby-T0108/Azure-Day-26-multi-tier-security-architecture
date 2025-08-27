@@ -1,4 +1,4 @@
-# Azure-Day-25-multi-tier-security-architecture
+# Azure-Day-26-multi-tier-security-architecture
 Project Overview
 
 This project showcases the deployment of a secure 3-tier enterprise network architecture in Microsoft Azure. 
